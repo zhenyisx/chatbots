@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "claudia-fb-hello3-bot-executor",
+    "name": "claudia-fb-hello3-bot",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "qe1oi1wogg",
+    "module": "bot"
+  }
+}
